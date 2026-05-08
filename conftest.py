@@ -26,6 +26,12 @@ def setup(request):
     browser = request.config.getoption("--browser")
     if browser == "chrome":
         chrome_options = ChromeOptions()
+
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--window-size=1920,1080")
+
         chrome_options.add_argument("--incognito")  # ✅ no password saving in incognito
         chrome_options.add_argument("--disable-save-password-bubble")
         chrome_options.add_argument("--disable-features=PasswordLeakDetection,PasswordCheck")
