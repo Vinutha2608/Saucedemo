@@ -1,0 +1,163 @@
+2026-04-27 11:51:37 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 11:51:38 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 11:51:38 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 11:51:38 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 11:51:38 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 11:51:39 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 11:51:39 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 11:51:39 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 11:51:39 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 11:51:40 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 11:51:40 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 11:51:40 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 11:51:40 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 11:51:40 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 11:51:40 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 11:58:08 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 11:58:08 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 11:58:08 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 11:58:08 | INFO     | pages.addtocart_page | Verifying cart icon
+2026-04-27 11:58:08 | INFO     | pages.addtocart_page | Cart count before: 0
+2026-04-27 11:58:08 | INFO     | pages.addtocart_page | Adding product to cart
+2026-04-27 11:58:08 | INFO     | pages.addtocart_page | Product added to cart
+2026-04-27 11:58:09 | INFO     | pages.addtocart_page | Cart count after: 1
+2026-04-27 11:58:09 | INFO     | pages.addtocart_page | Clicking cart icon
+2026-04-27 11:58:09 | INFO     | pages.addtocart_page | Clicked checkout button
+2026-04-27 11:58:10 | INFO     | pages.checkout_page | Form filled successfully
+2026-04-27 11:58:10 | INFO     | pages.checkout_page | Clicking Continue
+2026-04-27 11:58:11 | INFO     | pages.checkout_page | Order overview page loaded
+2026-04-27 11:58:11 | INFO     | pages.checkout_page | Verifying Overview
+2026-04-27 11:58:11 | INFO     | pages.checkout_page | Individual prices: [29.99]
+2026-04-27 11:58:11 | INFO     | pages.checkout_page | Sum of all prices: $29.99
+2026-04-27 11:58:11 | INFO     | pages.checkout_page | Item total verified: $29.99 == sum of prices $29.99
+2026-04-27 11:58:11 | INFO     | pages.checkout_page | Tax: $2.4
+2026-04-27 11:58:11 | INFO     | pages.checkout_page | Final total verified: $29.99 + $2.4 = $32.39
+2026-04-27 12:23:55 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:23:55 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:23:56 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:23:56 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:23:56 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:23:56 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:23:57 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:23:57 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:23:57 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:23:57 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:23:57 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:23:57 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:23:57 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:23:58 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:23:58 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:30:14 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:30:15 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:30:15 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:30:15 | INFO     | pages.addtocart_page | Verifying cart icon
+2026-04-27 12:30:15 | INFO     | pages.addtocart_page | Cart count before: 0
+2026-04-27 12:30:15 | INFO     | pages.addtocart_page | Adding product to cart
+2026-04-27 12:30:15 | INFO     | pages.addtocart_page | Product added to cart
+2026-04-27 12:30:15 | INFO     | pages.addtocart_page | Cart count after: 1
+2026-04-27 12:30:15 | INFO     | pages.addtocart_page | Clicking cart icon
+2026-04-27 12:30:15 | INFO     | pages.addtocart_page | Clicked checkout button
+2026-04-27 12:30:16 | INFO     | pages.checkout_page | Form filled successfully
+2026-04-27 12:30:16 | INFO     | pages.checkout_page | Clicking Continue
+2026-04-27 12:30:16 | INFO     | pages.checkout_page | Order overview page loaded
+2026-04-27 12:30:16 | INFO     | pages.checkout_page | Verifying Overview
+2026-04-27 12:30:16 | INFO     | pages.checkout_page | Individual prices: [29.99]
+2026-04-27 12:30:16 | INFO     | pages.checkout_page | Sum of all prices: $29.99
+2026-04-27 12:30:16 | INFO     | pages.checkout_page | Item total verified: $29.99 == sum of prices $29.99
+2026-04-27 12:30:16 | INFO     | pages.checkout_page | Tax: $2.4
+2026-04-27 12:30:16 | INFO     | pages.checkout_page | Final total verified: $29.99 + $2.4 = $32.39
+2026-04-27 12:43:00 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:43:00 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:43:00 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:43:00 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:43:00 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:43:00 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:43:01 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:43:01 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:43:01 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:43:01 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:43:02 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:43:02 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:43:02 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:43:02 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:43:02 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:47:16 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:47:16 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:47:16 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:47:16 | INFO     | pages.addtocart_page | Verifying cart icon
+2026-04-27 12:47:16 | INFO     | pages.addtocart_page | Cart count before: 0
+2026-04-27 12:47:16 | INFO     | pages.addtocart_page | Adding product to cart
+2026-04-27 12:47:16 | INFO     | pages.addtocart_page | Product added to cart
+2026-04-27 12:47:16 | INFO     | pages.addtocart_page | Cart count after: 1
+2026-04-27 12:47:16 | INFO     | pages.addtocart_page | Clicking cart icon
+2026-04-27 12:47:16 | INFO     | pages.addtocart_page | Clicked checkout button
+2026-04-27 12:47:17 | INFO     | pages.checkout_page | Form filled successfully
+2026-04-27 12:47:17 | INFO     | pages.checkout_page | Clicking Continue
+2026-04-27 12:47:17 | INFO     | pages.checkout_page | Order overview page loaded
+2026-04-27 12:47:17 | INFO     | pages.checkout_page | Verifying Overview
+2026-04-27 12:47:17 | INFO     | pages.checkout_page | Individual prices: [29.99]
+2026-04-27 12:47:17 | INFO     | pages.checkout_page | Sum of all prices: $29.99
+2026-04-27 12:47:17 | INFO     | pages.checkout_page | Item total verified: $29.99 == sum of prices $29.99
+2026-04-27 12:47:17 | INFO     | pages.checkout_page | Tax: $2.4
+2026-04-27 12:47:17 | INFO     | pages.checkout_page | Final total verified: $29.99 + $2.4 = $32.39
+2026-04-27 12:55:53 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:55:54 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:55:54 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:55:54 | INFO     | pages.addtocart_page | Verifying cart icon
+2026-04-27 12:55:54 | INFO     | pages.addtocart_page | Cart count before: 0
+2026-04-27 12:55:54 | INFO     | pages.addtocart_page | Adding product to cart
+2026-04-27 12:55:54 | INFO     | pages.addtocart_page | Product added to cart
+2026-04-27 12:55:54 | INFO     | pages.addtocart_page | Cart count after: 1
+2026-04-27 12:56:49 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 12:56:50 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 12:56:50 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 12:56:50 | INFO     | pages.addtocart_page | Verifying cart icon
+2026-04-27 12:56:50 | INFO     | pages.addtocart_page | Cart count before: 0
+2026-04-27 12:56:50 | INFO     | pages.addtocart_page | Adding product to cart
+2026-04-27 12:56:50 | INFO     | pages.addtocart_page | Product added to cart
+2026-04-27 12:56:50 | INFO     | pages.addtocart_page | Cart count after: 1
+2026-04-27 12:56:50 | INFO     | pages.addtocart_page | Clicking cart icon
+2026-04-27 12:56:50 | INFO     | pages.addtocart_page | Clicked checkout button
+2026-04-27 12:56:50 | INFO     | pages.checkout_page | Form filled successfully
+2026-04-27 12:56:50 | INFO     | pages.checkout_page | Clicking Continue
+2026-04-27 12:56:50 | INFO     | pages.checkout_page | Order overview page loaded
+2026-04-27 12:56:50 | INFO     | pages.checkout_page | Verifying Overview
+2026-04-27 12:56:51 | INFO     | pages.checkout_page | Individual prices: [29.99]
+2026-04-27 12:56:51 | INFO     | pages.checkout_page | Sum of all prices: $29.99
+2026-04-27 12:56:51 | INFO     | pages.checkout_page | Item total verified: $29.99 == sum of prices $29.99
+2026-04-27 12:56:51 | INFO     | pages.checkout_page | Tax: $2.4
+2026-04-27 12:56:51 | INFO     | pages.checkout_page | Final total verified: $29.99 + $2.4 = $32.39
+2026-04-27 14:15:37 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 14:15:37 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 14:15:38 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 14:15:38 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 14:15:38 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 14:15:38 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 14:15:39 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 14:15:40 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 14:15:40 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 14:15:41 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 14:15:41 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 14:15:41 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 14:15:41 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 14:15:42 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 14:15:42 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 14:17:29 | INFO     | pages.loginpage | Entered username: 
+2026-04-27 14:17:29 | INFO     | pages.loginpage | Entered password: 
+2026-04-27 14:17:29 | INFO     | pages.loginpage | Clicked Login button
+2026-04-27 14:17:29 | INFO     | pages.addtocart_page | Verifying cart icon
+2026-04-27 14:17:29 | INFO     | pages.addtocart_page | Cart count before: 0
+2026-04-27 14:17:29 | INFO     | pages.addtocart_page | Adding product to cart
+2026-04-27 14:17:30 | INFO     | pages.addtocart_page | Product added to cart
+2026-04-27 14:17:30 | INFO     | pages.addtocart_page | Cart count after: 1
+2026-04-27 14:17:30 | INFO     | pages.addtocart_page | Clicking cart icon
+2026-04-27 14:17:30 | INFO     | pages.addtocart_page | Clicked checkout button
+2026-04-27 14:17:30 | INFO     | pages.checkout_page | Form filled successfully
+2026-04-27 14:17:30 | INFO     | pages.checkout_page | Clicking Continue
+2026-04-27 14:17:31 | INFO     | pages.checkout_page | Order overview page loaded
+2026-04-27 14:17:31 | INFO     | pages.checkout_page | Verifying Overview
+2026-04-27 14:17:31 | INFO     | pages.checkout_page | Individual prices: [29.99]
+2026-04-27 14:17:31 | INFO     | pages.checkout_page | Sum of all prices: $29.99
+2026-04-27 14:17:31 | INFO     | pages.checkout_page | Item total verified: $29.99 == sum of prices $29.99
+2026-04-27 14:17:31 | INFO     | pages.checkout_page | Tax: $2.4
+2026-04-27 14:17:31 | INFO     | pages.checkout_page | Final total verified: $29.99 + $2.4 = $32.39
