@@ -1,0 +1,67 @@
+2026-05-11 14:31:18 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:31:18 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:31:19 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:31:19 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:31:19 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:31:19 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:31:22 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:31:24 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:31:24 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:31:26 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:31:26 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:31:26 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:31:26 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:31:26 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:31:27 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:31:42 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:31:43 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:31:43 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:31:43 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:31:43 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:31:43 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:31:44 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:31:44 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:31:44 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:31:44 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:31:44 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:31:44 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:31:45 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:31:45 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:31:45 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:32:08 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:32:08 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:32:08 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:32:08 | INFO     | pages.inventory_page | Verifying inventory page loaded
+2026-05-11 14:32:09 | INFO     | pages.inventory_page |  Sorted by: az
+2026-05-11 14:32:09 | INFO     | pages.inventory_page |  A-Z sort verified: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2026-05-11 14:32:09 | INFO     | pages.inventory_page |  Sorted by: za
+2026-05-11 14:32:09 | INFO     | pages.inventory_page |  Z-A sort verified: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2026-05-11 14:32:09 | INFO     | pages.inventory_page |  Sorted by: lohi
+2026-05-11 14:32:09 | INFO     | pages.inventory_page |  Price Low-High verified: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2026-05-11 14:32:10 | INFO     | pages.inventory_page |  Sorted by: hilo
+2026-05-11 14:32:10 | INFO     | pages.inventory_page |  Price High-Low verified: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2026-05-11 14:32:10 | INFO     | pages.inventory_page |  Product 1: Sauce Labs Fleece Jacket | $49.99 | Image OK
+2026-05-11 14:32:10 | INFO     | pages.inventory_page |  Product 2: Sauce Labs Backpack | $29.99 | Image OK
+2026-05-11 14:32:10 | INFO     | pages.inventory_page |  Product 3: Sauce Labs Bolt T-Shirt | $15.99 | Image OK
+2026-05-11 14:32:10 | INFO     | pages.inventory_page |  Product 4: Test.allTheThings() T-Shirt (Red) | $15.99 | Image OK
+2026-05-11 14:32:10 | INFO     | pages.inventory_page |  Product 5: Sauce Labs Bike Light | $9.99 | Image OK
+2026-05-11 14:32:10 | INFO     | pages.inventory_page |  Product 6: Sauce Labs Onesie | $7.99 | Image OK
+2026-05-11 14:32:34 | INFO     | pages.loginpage | Entered username: 
+2026-05-11 14:32:34 | INFO     | pages.loginpage | Entered password: 
+2026-05-11 14:32:34 | INFO     | pages.loginpage | Clicked Login button
+2026-05-11 14:32:34 | INFO     | pages.addtocart_page | Verifying cart icon
+2026-05-11 14:32:35 | INFO     | pages.addtocart_page | Cart count before: 0
+2026-05-11 14:32:35 | INFO     | pages.addtocart_page | Adding product to cart
+2026-05-11 14:32:35 | INFO     | pages.addtocart_page | Product added to cart
+2026-05-11 14:32:35 | INFO     | pages.addtocart_page | Cart count after: 1
+2026-05-11 14:32:35 | INFO     | pages.addtocart_page | Clicking cart icon
+2026-05-11 14:32:35 | INFO     | pages.addtocart_page | Clicked checkout button
+2026-05-11 14:32:35 | INFO     | pages.checkout_page | Form filled successfully
+2026-05-11 14:32:35 | INFO     | pages.checkout_page | Clicking Continue
+2026-05-11 14:32:35 | INFO     | pages.checkout_page | Order overview page loaded
+2026-05-11 14:32:35 | INFO     | pages.checkout_page | Verifying Overview
+2026-05-11 14:32:35 | INFO     | pages.checkout_page | Individual prices: [29.99]
+2026-05-11 14:32:35 | INFO     | pages.checkout_page | Sum of all prices: $29.99
+2026-05-11 14:32:35 | INFO     | pages.checkout_page | Item total verified: $29.99 == sum of prices $29.99
+2026-05-11 14:32:36 | INFO     | pages.checkout_page | Tax: $2.4
+2026-05-11 14:32:36 | INFO     | pages.checkout_page | Final total verified: $29.99 + $2.4 = $32.39
