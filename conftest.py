@@ -7,7 +7,6 @@ from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
-
 from pages.loginpage import LoginPage
 from utils.config_reader import get_config
 from utils.excel_reader import get_excel_data
@@ -26,12 +25,10 @@ def setup(request):
     browser = request.config.getoption("--browser")
     if browser == "chrome":
         chrome_options = ChromeOptions()
-
         chrome_options.add_argument("--headless")
         chrome_options.add_argument("--no-sandbox")
         chrome_options.add_argument("--disable-dev-shm-usage")
         chrome_options.add_argument("--window-size=1920,1080")
-
         chrome_options.add_argument("--incognito")  # ✅ no password saving in incognito
         chrome_options.add_argument("--disable-save-password-bubble")
         chrome_options.add_argument("--disable-features=PasswordLeakDetection,PasswordCheck")
@@ -46,7 +43,7 @@ def setup(request):
         driver = webdriver.Chrome(
             service=ChromeService(ChromeDriverManager().install()),
             options=chrome_options
-        )
+     )
     elif browser == "edge":
         driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
     elif browser == "firefox":
@@ -57,7 +54,6 @@ def setup(request):
     driver.maximize_window()
     yield driver
     driver.close()
-
 
 @pytest.fixture(scope='function')
 def login(setup):
