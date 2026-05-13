@@ -11,7 +11,6 @@ from pages.loginpage import LoginPage
 from utils.config_reader import get_config
 from utils.excel_reader import get_excel_data
 
-
 def pytest_addoption(parser):
     parser.addoption(
         "--browser",
