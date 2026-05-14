@@ -1,3 +1,4 @@
+# inventory tests - feature branch practice
 import pytest
 
 from pages.inventory_page import InventoryPage
