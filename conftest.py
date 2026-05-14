@@ -62,6 +62,8 @@ def login(setup):
     driver = setup
     lp = LoginPage(driver)
 
+    driver.get(get_config("url"))
+
     # take first row from excel
     data = get_excel_data("login")[0]
     Username = data[0]
