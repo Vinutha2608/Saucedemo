@@ -3,7 +3,7 @@ import pytest
 from pages.inventory_page import InventoryPage
 from pages.loginpage import LoginPage
 from utils.config_reader import get_config
-
+# testing branch protection
 
 class TestInventory:
 
